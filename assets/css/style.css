@@ -1,0 +1,28 @@
+body {
+    background-color: #c0c5ce;
+}
+
+.container {
+    width: 65%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #65737e;
+    padding: 4%;
+}
+
+.container img {
+    max-width: 250px;
+    padding: 4px;
+}
+
+#elemntos {
+    padding: 2%;
+}
+
+#elementos .elemento {
+    margin: 10px;
+    border: 2px solid #c05cc0;
+    display: block;
+    padding: 10px;
+    text-align: left;
+}
